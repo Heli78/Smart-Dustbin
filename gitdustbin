@@ -1,11 +1,4 @@
 
-
-/*
-  SMART DUSTBIN ARDUINO CODE
-
-  Lid of the dustbin gets opened when a person comes in range of 30cm in front of the dustbin
-*/
-
 #include   //INCLUDES SERVO LIBRARY
 
 Servo servo;
